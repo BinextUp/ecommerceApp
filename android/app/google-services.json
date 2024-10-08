@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340692048818",
+    "project_id": "tenloapp-f8d53",
+    "storage_bucket": "tenloapp-f8d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340692048818:android:d5d9ff8c88d6062c8b62ab",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVc3fzmSOufXcbMAdg6FBgawL0NOxrzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340692048818:android:11def872f59f5dae8b62ab",
+        "android_client_info": {
+          "package_name": "com.kronos.panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVc3fzmSOufXcbMAdg6FBgawL0NOxrzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
